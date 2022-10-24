@@ -1,21 +1,4 @@
 @charset "utf-8";
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 1
-   Case Problem 1
-   Filename: jtc_layout.css
-
-   This file contains the layout styles used in the JTC website
-
-*/
-
-/* =============================================
-	Base layout styles used by mobile devices
-	up to 480px and cascaded to larger devices 
-	unless superceded by other styles.
-   =============================================
-*/
-
 
 html {
 	height: 100%;
